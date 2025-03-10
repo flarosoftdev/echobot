@@ -3,7 +3,7 @@ import asyncio
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 
-TOKEN = "7763116596:AAHoWxVLpTsuOilBxey8zv4UpQ2CcOdcVT8"
+TOKEN = "BOT_TOKEN"
 
 logging.basicConfig(format="%(asctime)s - %(levelname)s - %(message)s", level=logging.INFO)
 
