@@ -4,7 +4,7 @@
 # Telegram Channel with Flarosoft Bots: https://t.me/FlarosoftBots
 
 __author__ = "Flarosoft"
-__version__ = "0.8"
+__version__ = "0.3"
 __author_email__ = "flarosoft.dev@gmail.com"
 
 import logging
