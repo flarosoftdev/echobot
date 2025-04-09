@@ -1,3 +1,12 @@
+# (c) 2025 Flarosoft Development.
+# Github Repository: https://github.com/flarosoftdev/Telegram-Mesage-Sender.git
+# Developer's Telegram channel: https://t.me/flarosoftdev
+# Telegram Channel with Flarosoft Bots: https://t.me/FlarosoftBots
+
+__author__ = "Flarosoft"
+__version__ = "0.8"
+__author_email__ = "flarosoft.dev@gmail.com"
+
 import logging
 import asyncio
 from telegram import Update
